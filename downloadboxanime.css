@@ -1,0 +1,6 @@
+.smokeddl{font-size:12px;font-weight:600;background:#f1f1f1;padding:5px;}
+.smokeddl .smokettl{padding:5px 10px;color:#FFF;background:#444;}
+.smokeddl .smokeurl {margin-top: 3px;padding: 5px 10px;color: #555;background: #fff;border-bottom: 1px solid #ddd;}
+.smokeddl .smokeurl a{color:#555;}
+.smokeddl .smokeurl a:hover{text-decoration:underline}
+.smokeurl strong{background: #333;padding: 3px;border-radius: 2px;color: #fff;margin-right: 5px;}
